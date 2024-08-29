@@ -1,0 +1,1151 @@
+{
+  "C:\\Users\\SENAI\\Desktop\\Cobertura_de_testes_Cypress\\to-do-master\\src\\components\\Button\\index.jsx": {
+    "path": "C:\\Users\\SENAI\\Desktop\\Cobertura_de_testes_Cypress\\to-do-master\\src\\components\\Button\\index.jsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 5,
+          "column": 2
+        },
+        "end": {
+          "line": 9,
+          "column": 4
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "Button",
+        "decl": {
+          "start": {
+            "line": 4,
+            "column": 24
+          },
+          "end": {
+            "line": 4,
+            "column": 30
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 38
+          },
+          "end": {
+            "line": 10,
+            "column": 1
+          }
+        },
+        "line": 4
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 328
+    },
+    "f": {
+      "0": 328
+    },
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "e1e62ae135a255d740e1eeab3dcd7aa358d8e0eb"
+  },
+  "C:\\Users\\SENAI\\Desktop\\Cobertura_de_testes_Cypress\\to-do-master\\src\\components\\Form\\index.jsx": {
+    "path": "C:\\Users\\SENAI\\Desktop\\Cobertura_de_testes_Cypress\\to-do-master\\src\\components\\Form\\index.jsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 6,
+          "column": 28
+        },
+        "end": {
+          "line": 6,
+          "column": 40
+        }
+      },
+      "1": {
+        "start": {
+          "line": 8,
+          "column": 19
+        },
+        "end": {
+          "line": 10,
+          "column": 3
+        }
+      },
+      "2": {
+        "start": {
+          "line": 9,
+          "column": 4
+        },
+        "end": {
+          "line": 9,
+          "column": 34
+        }
+      },
+      "3": {
+        "start": {
+          "line": 12,
+          "column": 19
+        },
+        "end": {
+          "line": 22,
+          "column": 3
+        }
+      },
+      "4": {
+        "start": {
+          "line": 13,
+          "column": 4
+        },
+        "end": {
+          "line": 13,
+          "column": 28
+        }
+      },
+      "5": {
+        "start": {
+          "line": 14,
+          "column": 21
+        },
+        "end": {
+          "line": 18,
+          "column": 5
+        }
+      },
+      "6": {
+        "start": {
+          "line": 19,
+          "column": 4
+        },
+        "end": {
+          "line": 19,
+          "column": 45
+        }
+      },
+      "7": {
+        "start": {
+          "line": 20,
+          "column": 4
+        },
+        "end": {
+          "line": 20,
+          "column": 35
+        }
+      },
+      "8": {
+        "start": {
+          "line": 21,
+          "column": 4
+        },
+        "end": {
+          "line": 21,
+          "column": 17
+        }
+      },
+      "9": {
+        "start": {
+          "line": 24,
+          "column": 2
+        },
+        "end": {
+          "line": 35,
+          "column": 4
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "Form",
+        "decl": {
+          "start": {
+            "line": 5,
+            "column": 24
+          },
+          "end": {
+            "line": 5,
+            "column": 28
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 70
+          },
+          "end": {
+            "line": 36,
+            "column": 1
+          }
+        },
+        "line": 5
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": {
+            "line": 8,
+            "column": 19
+          },
+          "end": {
+            "line": 8,
+            "column": 20
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 8,
+            "column": 31
+          },
+          "end": {
+            "line": 10,
+            "column": 3
+          }
+        },
+        "line": 8
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": {
+            "line": 12,
+            "column": 19
+          },
+          "end": {
+            "line": 12,
+            "column": 20
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 12,
+            "column": 31
+          },
+          "end": {
+            "line": 22,
+            "column": 3
+          }
+        },
+        "line": 12
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 328,
+      "1": 328,
+      "2": 135,
+      "3": 328,
+      "4": 10,
+      "5": 10,
+      "6": 10,
+      "7": 10,
+      "8": 10,
+      "9": 328
+    },
+    "f": {
+      "0": 328,
+      "1": 135,
+      "2": 10
+    },
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "843682485928aa045a0d2fcca980376fba021744"
+  },
+  "C:\\Users\\SENAI\\Desktop\\Cobertura_de_testes_Cypress\\to-do-master\\src\\components\\Tasks\\index.jsx": {
+    "path": "C:\\Users\\SENAI\\Desktop\\Cobertura_de_testes_Cypress\\to-do-master\\src\\components\\Tasks\\index.jsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 5,
+          "column": 28
+        },
+        "end": {
+          "line": 14,
+          "column": 3
+        }
+      },
+      "1": {
+        "start": {
+          "line": 6,
+          "column": 25
+        },
+        "end": {
+          "line": 11,
+          "column": 6
+        }
+      },
+      "2": {
+        "start": {
+          "line": 7,
+          "column": 6
+        },
+        "end": {
+          "line": 9,
+          "column": 7
+        }
+      },
+      "3": {
+        "start": {
+          "line": 8,
+          "column": 8
+        },
+        "end": {
+          "line": 8,
+          "column": 53
+        }
+      },
+      "4": {
+        "start": {
+          "line": 10,
+          "column": 6
+        },
+        "end": {
+          "line": 10,
+          "column": 18
+        }
+      },
+      "5": {
+        "start": {
+          "line": 12,
+          "column": 4
+        },
+        "end": {
+          "line": 12,
+          "column": 27
+        }
+      },
+      "6": {
+        "start": {
+          "line": 13,
+          "column": 4
+        },
+        "end": {
+          "line": 13,
+          "column": 37
+        }
+      },
+      "7": {
+        "start": {
+          "line": 16,
+          "column": 21
+        },
+        "end": {
+          "line": 20,
+          "column": 3
+        }
+      },
+      "8": {
+        "start": {
+          "line": 17,
+          "column": 23
+        },
+        "end": {
+          "line": 17,
+          "column": 61
+        }
+      },
+      "9": {
+        "start": {
+          "line": 17,
+          "column": 46
+        },
+        "end": {
+          "line": 17,
+          "column": 60
+        }
+      },
+      "10": {
+        "start": {
+          "line": 18,
+          "column": 4
+        },
+        "end": {
+          "line": 18,
+          "column": 25
+        }
+      },
+      "11": {
+        "start": {
+          "line": 19,
+          "column": 4
+        },
+        "end": {
+          "line": 19,
+          "column": 35
+        }
+      },
+      "12": {
+        "start": {
+          "line": 22,
+          "column": 2
+        },
+        "end": {
+          "line": 49,
+          "column": 4
+        }
+      },
+      "13": {
+        "start": {
+          "line": 25,
+          "column": 8
+        },
+        "end": {
+          "line": 46,
+          "column": 10
+        }
+      },
+      "14": {
+        "start": {
+          "line": 36,
+          "column": 33
+        },
+        "end": {
+          "line": 36,
+          "column": 59
+        }
+      },
+      "15": {
+        "start": {
+          "line": 40,
+          "column": 59
+        },
+        "end": {
+          "line": 40,
+          "column": 78
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "Tasks",
+        "decl": {
+          "start": {
+            "line": 4,
+            "column": 24
+          },
+          "end": {
+            "line": 4,
+            "column": 29
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 71
+          },
+          "end": {
+            "line": 50,
+            "column": 1
+          }
+        },
+        "line": 4
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": {
+            "line": 5,
+            "column": 28
+          },
+          "end": {
+            "line": 5,
+            "column": 29
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 36
+          },
+          "end": {
+            "line": 14,
+            "column": 3
+          }
+        },
+        "line": 5
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": {
+            "line": 6,
+            "column": 35
+          },
+          "end": {
+            "line": 6,
+            "column": 36
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 45
+          },
+          "end": {
+            "line": 11,
+            "column": 5
+          }
+        },
+        "line": 6
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": {
+            "line": 16,
+            "column": 21
+          },
+          "end": {
+            "line": 16,
+            "column": 22
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 16,
+            "column": 29
+          },
+          "end": {
+            "line": 20,
+            "column": 3
+          }
+        },
+        "line": 16
+      },
+      "4": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": {
+            "line": 17,
+            "column": 36
+          },
+          "end": {
+            "line": 17,
+            "column": 37
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 17,
+            "column": 46
+          },
+          "end": {
+            "line": 17,
+            "column": 60
+          }
+        },
+        "line": 17
+      },
+      "5": {
+        "name": "(anonymous_5)",
+        "decl": {
+          "start": {
+            "line": 24,
+            "column": 17
+          },
+          "end": {
+            "line": 24,
+            "column": 18
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 24,
+            "column": 27
+          },
+          "end": {
+            "line": 47,
+            "column": 7
+          }
+        },
+        "line": 24
+      },
+      "6": {
+        "name": "(anonymous_6)",
+        "decl": {
+          "start": {
+            "line": 36,
+            "column": 27
+          },
+          "end": {
+            "line": 36,
+            "column": 28
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 36,
+            "column": 33
+          },
+          "end": {
+            "line": 36,
+            "column": 59
+          }
+        },
+        "line": 36
+      },
+      "7": {
+        "name": "(anonymous_7)",
+        "decl": {
+          "start": {
+            "line": 40,
+            "column": 53
+          },
+          "end": {
+            "line": 40,
+            "column": 54
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 40,
+            "column": 59
+          },
+          "end": {
+            "line": 40,
+            "column": 78
+          }
+        },
+        "line": 40
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 6
+          },
+          "end": {
+            "line": 9,
+            "column": 7
+          }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": {
+              "line": 7,
+              "column": 6
+            },
+            "end": {
+              "line": 9,
+              "column": 7
+            }
+          },
+          {
+            "start": {
+              "line": 7,
+              "column": 6
+            },
+            "end": {
+              "line": 9,
+              "column": 7
+            }
+          }
+        ],
+        "line": 7
+      },
+      "1": {
+        "loc": {
+          "start": {
+            "line": 29,
+            "column": 16
+          },
+          "end": {
+            "line": 29,
+            "column": 59
+          }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": {
+              "line": 29,
+              "column": 32
+            },
+            "end": {
+              "line": 29,
+              "column": 54
+            }
+          },
+          {
+            "start": {
+              "line": 29,
+              "column": 57
+            },
+            "end": {
+              "line": 29,
+              "column": 59
+            }
+          }
+        ],
+        "line": 29
+      }
+    },
+    "s": {
+      "0": 58,
+      "1": 2,
+      "2": 4,
+      "3": 2,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 58,
+      "8": 1,
+      "9": 2,
+      "10": 1,
+      "11": 1,
+      "12": 58,
+      "13": 54,
+      "14": 2,
+      "15": 1
+    },
+    "f": {
+      "0": 58,
+      "1": 2,
+      "2": 4,
+      "3": 1,
+      "4": 2,
+      "5": 54,
+      "6": 2,
+      "7": 1
+    },
+    "b": {
+      "0": [
+        2,
+        2
+      ],
+      "1": [
+        12,
+        42
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "a3a2179df549b479df62f82c6a564599548fec81"
+  },
+  "C:\\Users\\SENAI\\Desktop\\Cobertura_de_testes_Cypress\\to-do-master\\src\\App.js": {
+    "path": "C:\\Users\\SENAI\\Desktop\\Cobertura_de_testes_Cypress\\to-do-master\\src\\App.js",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 8,
+          "column": 28
+        },
+        "end": {
+          "line": 10,
+          "column": 3
+        }
+      },
+      "1": {
+        "start": {
+          "line": 11,
+          "column": 60
+        },
+        "end": {
+          "line": 11,
+          "column": 71
+        }
+      },
+      "2": {
+        "start": {
+          "line": 13,
+          "column": 2
+        },
+        "end": {
+          "line": 24,
+          "column": 14
+        }
+      },
+      "3": {
+        "start": {
+          "line": 14,
+          "column": 27
+        },
+        "end": {
+          "line": 22,
+          "column": 5
+        }
+      },
+      "4": {
+        "start": {
+          "line": 15,
+          "column": 6
+        },
+        "end": {
+          "line": 17,
+          "column": 7
+        }
+      },
+      "5": {
+        "start": {
+          "line": 16,
+          "column": 8
+        },
+        "end": {
+          "line": 16,
+          "column": 71
+        }
+      },
+      "6": {
+        "start": {
+          "line": 16,
+          "column": 38
+        },
+        "end": {
+          "line": 16,
+          "column": 51
+        }
+      },
+      "7": {
+        "start": {
+          "line": 18,
+          "column": 6
+        },
+        "end": {
+          "line": 21,
+          "column": 19
+        }
+      },
+      "8": {
+        "start": {
+          "line": 19,
+          "column": 32
+        },
+        "end": {
+          "line": 19,
+          "column": 45
+        }
+      },
+      "9": {
+        "start": {
+          "line": 23,
+          "column": 4
+        },
+        "end": {
+          "line": 23,
+          "column": 45
+        }
+      },
+      "10": {
+        "start": {
+          "line": 26,
+          "column": 29
+        },
+        "end": {
+          "line": 28,
+          "column": 3
+        }
+      },
+      "11": {
+        "start": {
+          "line": 27,
+          "column": 4
+        },
+        "end": {
+          "line": 27,
+          "column": 57
+        }
+      },
+      "12": {
+        "start": {
+          "line": 30,
+          "column": 2
+        },
+        "end": {
+          "line": 51,
+          "column": 4
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "App",
+        "decl": {
+          "start": {
+            "line": 7,
+            "column": 9
+          },
+          "end": {
+            "line": 7,
+            "column": 12
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 15
+          },
+          "end": {
+            "line": 52,
+            "column": 1
+          }
+        },
+        "line": 7
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": {
+            "line": 13,
+            "column": 12
+          },
+          "end": {
+            "line": 13,
+            "column": 13
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 13,
+            "column": 18
+          },
+          "end": {
+            "line": 24,
+            "column": 3
+          }
+        },
+        "line": 13
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": {
+            "line": 14,
+            "column": 27
+          },
+          "end": {
+            "line": 14,
+            "column": 28
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 14,
+            "column": 33
+          },
+          "end": {
+            "line": 22,
+            "column": 5
+          }
+        },
+        "line": 14
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": {
+            "line": 16,
+            "column": 28
+          },
+          "end": {
+            "line": 16,
+            "column": 29
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 16,
+            "column": 38
+          },
+          "end": {
+            "line": 16,
+            "column": 51
+          }
+        },
+        "line": 16
+      },
+      "4": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": {
+            "line": 19,
+            "column": 22
+          },
+          "end": {
+            "line": 19,
+            "column": 23
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 19,
+            "column": 32
+          },
+          "end": {
+            "line": 19,
+            "column": 45
+          }
+        },
+        "line": 19
+      },
+      "5": {
+        "name": "(anonymous_5)",
+        "decl": {
+          "start": {
+            "line": 26,
+            "column": 29
+          },
+          "end": {
+            "line": 26,
+            "column": 30
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 26,
+            "column": 40
+          },
+          "end": {
+            "line": 28,
+            "column": 3
+          }
+        },
+        "line": 26
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": {
+            "line": 9,
+            "column": 4
+          },
+          "end": {
+            "line": 9,
+            "column": 51
+          }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": {
+              "line": 9,
+              "column": 4
+            },
+            "end": {
+              "line": 9,
+              "column": 45
+            }
+          },
+          {
+            "start": {
+              "line": 9,
+              "column": 49
+            },
+            "end": {
+              "line": 9,
+              "column": 51
+            }
+          }
+        ],
+        "line": 9
+      },
+      "1": {
+        "loc": {
+          "start": {
+            "line": 15,
+            "column": 6
+          },
+          "end": {
+            "line": 17,
+            "column": 7
+          }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": {
+              "line": 15,
+              "column": 6
+            },
+            "end": {
+              "line": 17,
+              "column": 7
+            }
+          },
+          {
+            "start": {
+              "line": 15,
+              "column": 6
+            },
+            "end": {
+              "line": 17,
+              "column": 7
+            }
+          }
+        ],
+        "line": 15
+      }
+    },
+    "s": {
+      "0": 80,
+      "1": 80,
+      "2": 80,
+      "3": 27,
+      "4": 47,
+      "5": 21,
+      "6": 0,
+      "7": 26,
+      "8": 46,
+      "9": 27,
+      "10": 80,
+      "11": 13,
+      "12": 80
+    },
+    "f": {
+      "0": 80,
+      "1": 27,
+      "2": 47,
+      "3": 0,
+      "4": 46,
+      "5": 13
+    },
+    "b": {
+      "0": [
+        80,
+        28
+      ],
+      "1": [
+        21,
+        26
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "f8a4307ea78984937933ddd922f4383d635d90b8"
+  },
+  "C:\\Users\\SENAI\\Desktop\\Cobertura_de_testes_Cypress\\to-do-master\\src\\index.js": {
+    "path": "C:\\Users\\SENAI\\Desktop\\Cobertura_de_testes_Cypress\\to-do-master\\src\\index.js",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 5,
+          "column": 13
+        },
+        "end": {
+          "line": 5,
+          "column": 65
+        }
+      },
+      "1": {
+        "start": {
+          "line": 6,
+          "column": 0
+        },
+        "end": {
+          "line": 10,
+          "column": 2
+        }
+      }
+    },
+    "fnMap": {},
+    "branchMap": {},
+    "s": {
+      "0": 7,
+      "1": 7
+    },
+    "f": {},
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "671df4de19d2b188dafcfb925ff9d9f2ce77a787"
+  }
+}
