@@ -1,0 +1,1 @@
+# Cobertura_de_testes_Cypress
